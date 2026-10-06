@@ -1,9 +1,5 @@
 # Báo cáo Bài 3: Cấu hình tường lửa UFW và chẩn đoán cổng mạng
 
-- **Học viên:** [Điền họ và tên]
-- **Mã học viên / MSSV:** [Điền MSSV]
-- **Đường dẫn thư mục nộp bài:** `homework/session_06/ex3/`
-
 ---
 
 ## 1. Mục tiêu bài lab
